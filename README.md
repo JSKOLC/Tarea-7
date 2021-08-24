@@ -87,11 +87,6 @@ LT 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 •	Mostramos cómo proteger componentes sensibles de los altos voltajes que genera un inductor.
 
 
-2.	. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.ç
-
-![image](https://user-images.githubusercontent.com/85263529/130554758-6fdfeb4c-993b-4496-81a7-8545c81150fb.png)
-
-
 5. El interruptor de la figura 14-39 está cerrado en t 0 s.
 
 
