@@ -310,10 +310,6 @@ b. Determine las ecuaciones para iL y vL.
 
 c. Encuentre el voltaje en el inductor y la corriente a través de él en t =17.8 us, use las ecuaciones que se determinaron antes.
 
-25.- a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
-b. ¿Cuánto es iL y vL en t =25 ms?
-
-![imagen](https://user-images.githubusercontent.com/85263529/130606924-8b5faf03-d64a-48dc-af7e-8242cff85f37.png)
 
 27.- Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms
 después que el interruptor se ha cerrado.
