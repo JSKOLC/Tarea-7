@@ -25,7 +25,7 @@ ESPECIFICOS:
 
 - Conocer el funcionamiento de los elementos eléctricos.
 
-- -Obtener los voltajes y corrientes de los inductores.
+- Obtener los voltajes y corrientes de los inductores.
 
 -Entender las leyes de Faraday y Lenz aplicadas a diferentes problemas.
 
