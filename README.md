@@ -20,6 +20,11 @@ ESPECIFICOS:
 
 2.MARCO TEÓRICO:
 
+CAPITULO 13
+
+![image](https://user-images.githubusercontent.com/85263529/130558137-a7a62fc3-1717-4f18-9200-4d3682b0c6a3.png)
+
+
 
 3.RESOLUCIÓN DE EJERCICIOS:
 
