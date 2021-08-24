@@ -106,8 +106,6 @@ d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desd
 
 ![image](https://user-images.githubusercontent.com/85263529/130554880-149ca72f-ec17-4f47-981b-a149495400f3.png)
 
-kevin criollo
-
 9.- Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/130605628-a8cfda82-e1cf-4363-babe-4dbe1f2f4ba3.png)
