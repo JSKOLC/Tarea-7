@@ -46,6 +46,115 @@ CAPITULO 14:
 
 3.RESOLUCIÓN DE EJERCICIOS:
 
+1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina? 
+
+![image](https://user-images.githubusercontent.com/85263529/130649765-2f429cea-81be-4403-9f4e-5a17b6d07e51.png)
+
+![image](https://user-images.githubusercontent.com/85263529/130650221-93f130ee-0f38-47c0-948a-0abbc7ea3333.png)
+
+3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0,01 s?
+
+![image](https://user-images.githubusercontent.com/85263529/130650316-1e3c6b5e-1257-4045-882d-76b2d7fb829c.png)
+
+
+5. La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 A en 0.1 ms. ¿Cuál es el voltaje en él?
+
+![image](https://user-images.githubusercontent.com/85263529/130649948-c56deb4a-1b1a-4902-8899-bfdf3da6ea16.png)
+
+![image](https://user-images.githubusercontent.com/85263529/130650360-aee5ef8f-4397-4c48-995a-1de42490eca5.png)
+
+7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
+
+![image](https://user-images.githubusercontent.com/85263529/130650422-22dba14c-a56f-4af0-af52-d285697102aa.png)
+
+
+9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si 20 cm, N 200 vueltas, y d 2 cm.
+
+![image](https://user-images.githubusercontent.com/85263529/130650495-2ade242b-969e-496b-b2ea-2b433a306f5a.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130650567-62423a31-71ee-44ee-931b-c96e930b2a66.png)
+
+11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = Haa. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N . Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es: 
+
+![image](https://user-images.githubusercontent.com/85263529/130650657-941483be-28d9-4bdd-8f3f-9b9e65ab67a6.png)
+
+13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
+
+![image](https://user-images.githubusercontent.com/85263529/130650721-b545c427-941b-4d94-8699-87f687256a03.png)
+
+15. La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
+
+![image](https://user-images.githubusercontent.com/85263529/130650887-605d3442-c614-4241-b911-402fd74e395f.png)
+
+a. ¿Qué valor tiene L?
+
+![image](https://user-images.githubusercontent.com/85263529/130651021-be2db9e9-c57d-4057-82ee-77659ccea1f8.png)
+
+
+b. Determine la forma de onda de la corriente y grafíquela. 
+
+![image](https://user-images.githubusercontent.com/85263529/130651136-185a8bab-f214-44b3-8a53-5b635ef166f2.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651156-c6f5b7e4-b961-4fab-b976-75661309f79d.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651176-9d2a8cbf-b640-45f0-8e3a-41593793cd09.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651250-4bc3f417-6403-449c-802d-6448db8e274b.png)
+
+c. ¿Cuál es la corriente en t = 10 s?
+
+![image](https://user-images.githubusercontent.com/85263529/130651376-b19e8af5-0538-46cb-ab38-96303989bab2.png)
+
+
+17. ¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?
+
+![image](https://user-images.githubusercontent.com/85263529/130651481-8128b653-fb53-40de-b756-e4745cd6b74a.png)
+
+
+19. Repita el problema 17 si las inductancias están conectadas en paralelo.
+
+![image](https://user-images.githubusercontent.com/85263529/130651537-a55c109e-6f1b-4f03-95a3-4bded4cce336.png)
+
+
+21. Determine LT para los circuitos de la figura 13-37
+
+![image](https://user-images.githubusercontent.com/85263529/130651596-6fd4cbc5-8e2d-4a9f-9599-e1987b458114.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651634-fed9d83b-09fc-4e49-b038-56200a8ee68f.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651644-b6698f2f-ca8d-4b02-89ba-7f823e69f194.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651657-42e67ad7-6af3-44b1-a2cc-8dc0ee488f71.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651674-06ea55db-2d2c-4a3e-8ad1-4ca751c4742e.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651693-2f139cbd-230e-4188-a5ad-b79f2b872d5e.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651706-0cf4abe3-b183-4d94-9c89-0c0f9821d5ca.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651733-ea296bb9-40d0-4365-bd33-ef3ccf5eddc7.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651750-dcaefb6d-665e-463d-9d61-b3cde80c1850.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/130651764-2ceb7ca0-e907-46a4-a0e5-91e9d8e737eb.png)
+
+
+
+
+
 23. Una inductancia de 30 uH está conectada en serie con una inductancia de 60 uH, y una inductancia de 10 uH está conectada
  en paralelo con la combinación en serie. ¿Qué valor tiene LT?
  
