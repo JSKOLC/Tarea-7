@@ -167,17 +167,25 @@ Grafico VL.-
 
 ![imagen](https://user-images.githubusercontent.com/85263529/130606723-8b63e34d-f477-4256-a164-c29c14e851ba.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/130644924-6a91f65e-bd8f-4959-a0ef-8fe59401a541.png)
+
 14-5 Circuitos más complejos
 
 21.- Para la bobina de la figura 14-45 R_l=1.7 Ω y L=150mH. Determine la corriente de la bobina en t =18.4 ms.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/130606792-b8f91851-9ae6-4efb-986e-5de46b72ab58.png)
 
+![imagen](https://user-images.githubusercontent.com/85263529/130645032-65d32540-99f8-4f03-b7ec-79435f90e8c5.png)
+
+
 23.- Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/130606840-6260b4e9-9661-4268-bd03-01ff9217ed28.png)
 
 a. Determine la constante de tiempo del circuito des energizado.
+
+![imagen](https://user-images.githubusercontent.com/85263529/130645102-96aeebcb-92cf-45d0-bdb2-52d7f721bf37.png)
+
 
 b. Determine las ecuaciones para iL y vL.
 
@@ -201,6 +209,13 @@ después que el interruptor se ha cerrado.
 
 5.CONCLUSIONES:
 
+- Una vez realizado los ejercicios estamos en capacidad de resolver cualquier ejercicio de éste tipo. Se ha practicado sobre el concepto y el uso de los conductores, asi mismo el analisis de circuitos mas complejos de los diferentes tipos de transitorios inductivos.
+
+- El voltaje inducido en una bobina depende de los enlaces de flujo y del material del núcleo.
+
+- El efecto de la inductancia es similiar al efecto de inercia en un sistema mecánico.
+
+- La inductancia se debe por completo a los efectos magnéticos de la corriente eléctrica,todos los conductores que conducen corriente tienen inductancia.
 
 6.BIBLIOGRAFÍA:
 
