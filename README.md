@@ -13,5 +13,26 @@ TACO LOACHAMIN LIZETH CAROLINA
 
 TEMA:
 
+1.-OBJETIVOS:
+GENERAL:
+ESPECIFICOS:
+
+
+2.MARCO TEÓRICO:
+
+
+3.RESOLUCIÓN DE EJERCICIOS:
+
+4.VIDEO:
+
+
+
+5.CONCLUSIONES:
+
+
+6.BIBLIOGRAFÍA:
+
+
+Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning. Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
 
 
