@@ -164,6 +164,8 @@ Grafico VL.-
 
 ![imagen](https://user-images.githubusercontent.com/85263529/130606723-8b63e34d-f477-4256-a164-c29c14e851ba.png)
 
+14-5 Circuitos más complejos
+
 21.- Para la bobina de la figura 14-45 R_l=1.7 Ω y L=150mH. Determine la corriente de la bobina en t =18.4 ms.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/130606792-b8f91851-9ae6-4efb-986e-5de46b72ab58.png)
