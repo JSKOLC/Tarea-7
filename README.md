@@ -70,6 +70,7 @@ LT 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 
 
 13-8 Energía almacenada por una inductancia 
+
 33. Encuentre la energía almacenada en el inductor de la figura 13-44
 
 ![image](https://user-images.githubusercontent.com/85263529/130554603-cad4f54d-a665-47e8-9ca4-0261ccb658dd.png)
@@ -95,20 +96,16 @@ LT 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 •	Mostramos cómo proteger componentes sensibles de los altos voltajes que genera un inductor.
 
 
-5. El interruptor de la figura 14-39 está cerrado en t 0 s.
+![WhatsApp Image 2021-08-24 at 09 17 10](https://user-images.githubusercontent.com/85263529/130636293-51163eda-91be-43ad-b3e3-d7bb5453d09c.jpeg)
 
+![2-5](https://user-images.githubusercontent.com/85263529/130636443-9e5295de-0970-4a49-80b4-e1711521320b.jpeg)
 
- a. ¿Cuál es la constante de tiempo del circuito? 
- 
-b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+![WhatsApp Image 2021-08-24 at 09 17 44](https://user-images.githubusercontent.com/85263529/130636482-7da80859-22bf-4f03-9606-45cf3482d3eb.jpeg)
 
- c. Determine las ecuaciones para iL y vL. 
- 
-d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t 0 hasta 5 t.
+![2-7](https://user-images.githubusercontent.com/85263529/130636517-645c7ddc-4f30-430b-b009-3634dcbf83be.jpeg)
+
 
 ![image](https://user-images.githubusercontent.com/85263529/130554836-ac03a0dd-5b45-41df-a996-7461e98d8a71.png)
-
-7. Repita el problema 5 para el circuito de la figura 14-41 con L 4 H.
 
 ![image](https://user-images.githubusercontent.com/85263529/130554880-149ca72f-ec17-4f47-981b-a149495400f3.png)
 
