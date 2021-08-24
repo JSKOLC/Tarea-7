@@ -17,7 +17,17 @@ TEMA:
 
 GENERAL:
 
+Aprender el concepto y funcionamiento de inductancia y transistores desde el punto de vista eléctrico y su aplicación en circuitos. El conocimiento de los distintos métodos de resolución de los circuitos eléctricos con los elementos ya mencionados, así como el estudio de la relación existente entre todos y cada uno de los elementos del circuito.
+
 ESPECIFICOS:
+
+- Practicar los distintos métodos de resolución de circuitos.
+
+- Conocer el funcionamiento de los elementos eléctricos.
+
+- -Obtener los voltajes y corrientes de los inductores.
+
+-Entender las leyes de Faraday y Lenz aplicadas a diferentes problemas.
 
 
 2.MARCO TEÓRICO:
